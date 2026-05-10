@@ -1,0 +1,152 @@
+[Workspace]
+CurrentProject=WebApp.src
+Location=C:\DataFlex Projects\FurbolWebApp\IdeSrc\franm_Studio.dsk
+CreateNew=3
+[TabWindows]
+GroupCount=1
+HorizontalGroups=1
+[TabGroup0]
+GroupSize=40
+SelectedTab=2
+[Window0]
+Filename=Workspace Dashboard
+ViewType=101
+Top=26
+Left=0
+Bottom=663
+Right=1387
+TabIndex=0
+TabGroup=0
+[Window1]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\WebApp.src
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=0
+CursorColumn=0
+TabIndex=1
+TabGroup=0
+[Window2]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\SelectEntrenador.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=81
+CursorColumn=13
+TabIndex=3
+TabGroup=0
+[Window3]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\SelectJugador.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=80
+CursorColumn=13
+TabIndex=4
+TabGroup=0
+[Window4]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\ZoomEntrenador.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=0
+CursorColumn=23
+TabIndex=5
+TabGroup=0
+[Window5]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\ZoomJugador.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=0
+CursorColumn=0
+TabIndex=6
+TabGroup=0
+[Window6]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\SelectPosicion.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=52
+CursorColumn=12
+TabIndex=7
+TabGroup=0
+[Window7]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\ZoomPosicion.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=0
+CursorColumn=0
+TabIndex=8
+TabGroup=0
+[Window8]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\SelectEquipo.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=63
+CursorColumn=13
+TabIndex=9
+TabGroup=0
+[Window9]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\ZoomEquipo.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=0
+CursorColumn=0
+TabIndex=10
+TabGroup=0
+[Window10]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\SelectLiga.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=70
+CursorColumn=12
+TabIndex=11
+TabGroup=0
+[Window11]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\ZoomLIga.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=0
+CursorColumn=0
+TabIndex=12
+TabGroup=0
+[Window12]
+Filename=C:\DataFlex Projects\FurbolWebApp\AppSrc\Dashboard.wo
+ViewType=1
+Top=26
+Left=0
+Bottom=663
+Right=1387
+CursorLine=174
+CursorColumn=38
+Bookmarks=118;
+TabIndex=2
+TabGroup=0
