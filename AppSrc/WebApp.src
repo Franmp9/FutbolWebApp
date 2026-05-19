@@ -16,7 +16,7 @@ Object oWebApp is a cWebApp
     // to drill down style views.
     Set peApplicationStyle to wvsDrillDown   
     Set peApplicationStateMode to asmHistoryAndUrls 
-    Set psEncryptPassword to "w4r@$uU(W.:t[BiMU,Bhg[<6orj#W<D,^[69,3N4"
+    Set psEncryptPassword to "Kbgthft<3y=zhCNFQ~BR)93faZ?(1^e8bY=?k[]#"
 
     Object oViewStack is a cWebViewStack
     End_Object
@@ -191,13 +191,13 @@ Object oWebApp is a cWebApp
     Use SelectEntrenador.wo
     Use ZoomEntrenador.wo
     Use SelectJugador.wo
-    Use ZoomJugador.wo
     Use SelectPosicion.wo
-    Use ZoomPosicion.wo
     Use SelectEquipo.wo
-    Use ZoomEquipo.wo
     Use SelectLiga.wo
-    Use ZoomLIga.wo
+    Use ZoomJugador.wo
+    Use ZoomPosicion.wo
+    Use ZoomEquipo.wo
+    Use ZoomLiga.wo
     Set phoDefaultView to oDashboard
 
 End_Object
